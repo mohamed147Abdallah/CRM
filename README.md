@@ -1,6 +1,6 @@
 # NEXUS CRM ✦ Enterprise Suite
 
-![NEXUS CRM Banner](https://via.placeholder.com/1200x400/030303/ffffff?text=NEXUS+CRM+%E2%9C%A6+Enterprise+Control)
+
 
 **NEXUS CRM** is a modern, high-velocity Customer Relationship Management system engineered for precision and speed. Built with Laravel 11 and styled with a custom, ultra-premium Tailwind CSS system, NEXUS provides a stunning Dark/Light mode UI with seamless glassmorphism and real-time data visualization.
 
